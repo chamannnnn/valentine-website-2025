@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? kassam??? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Moreeeeeeeeeee! 🚀💝",              // Shows when they go past 1000%
-        normal: "Moreeee! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW You love me that much??? kassam??? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "Ajhaiiiiiiii! 🚀💝",              // Shows when they go past 1000%
+        normal: "Ajhaiii! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
@@ -78,8 +78,8 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
+        musicUrl: "https://res.cloudinary.com/drszdck7m/video/upload/v1739459945/X2Download.app_-_d4vd_-_Here_With_Me_Lyrics_128_kbps_tjvwaf.mp3", // Music streaming URL
+        startText: "🎵 Our Song",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
